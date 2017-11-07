@@ -1,0 +1,15 @@
+body {
+    font-family: "Open Sans", serif;
+    margin-top: 300px;
+    text-align: center;
+    color: #e0d4d4;
+}
+
+#clock {
+    font-weight: 300;
+    font-size: 120px;
+}
+
+#color:before {
+    content: 'Color ';
+}
